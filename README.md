@@ -1,7 +1,6 @@
-#  let arr =['Hi', 'I', 'am', 'Lakan', 'Santos', 'I',  'am', 'a', 'Programmer']
-## let intro =[]
-## for(let i=0; i<arr.length; i++){
-##   intro.push(arr[i])
-## }
-
-## console.log(`${intro.join(' '}`)
+### const letMe =['Hi', 'I', 'am', 'Lakan', 'Santos.', 'I',  'am', 'a', 'Programmer']
+### const introduce = []
+### letMe.map(el => {
+###   introduce.push(el)
+### })
+### console.log(`${introduce.join(' ')}.`)
